@@ -29,14 +29,11 @@ Features:
  📌 Runs in the system tray
 
 
-##下载 / Download
-在Releases页面下载wgcbe 2.0.0.zip 解压即可使用
-Go to Releases and download the .zip file
 ## 使用方法 / Usage
 
 中文：
 
-1. 启动 WBCGE。
+1. 在Releases页面下载wgcbe 2.0.0.zip并启动 WBCGE。
 2. WBCGE 会自动寻找 Wallpaper Engine。
 3. 切换到一个虚拟桌面，并选择你想使用的壁纸。
 4. 切换到其他虚拟桌面并设置壁纸。
@@ -47,7 +44,7 @@ Go to Releases and download the .zip file
 
 English:
 
-1. Start WBCGE.
+1. Go to Releases, download the .zip file and start WBCGE.
 2. WBCGE will automatically detect Wallpaper Engine.
 3. Switch to a virtual desktop and choose your wallpaper.
 4. Repeat for other virtual desktops.
