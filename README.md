@@ -28,6 +28,10 @@ Features:
  💾 Automatic configuration saving
  📌 Runs in the system tray
 
+
+##下载 / Download
+在Releases页面下载wgcbe 2.0.0.zip 解压即可使用
+Go to Releases and download the .zip file
 ## 使用方法 / Usage
 
 中文：
